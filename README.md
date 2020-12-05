@@ -3,6 +3,7 @@
 This repository contains the boilerplate code for my ReactJS workshop with Let's Hack hackathon.
 
 See the full code: [https://github.com/MadhavBahl/speedy-type](https://github.com/MadhavBahl/speedy-type)
+
 See the webinar: [https://www.youtube.com/watch?v=0FYC38EJIuU](https://www.youtube.com/watch?v=0FYC38EJIuU)
 
 ## Set up a new CRA
